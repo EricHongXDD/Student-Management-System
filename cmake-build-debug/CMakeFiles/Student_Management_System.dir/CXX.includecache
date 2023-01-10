@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/encryption.h
+iostream
+-
+string
+-
+
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/loginmenu.cpp
+loginmenu.h
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/loginmenu.h
+
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/loginmenu.h
+iostream
+-
+conio.h
+-
+string
+-
+fstream
+-
+sstream
+-
+map
+-
+usergroup.h
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/usergroup.h
+
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/stud.h
+iomanip
+-
+iostream
+-
+string
+-
+map
+-
+fstream
+-
+encryption.h
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/encryption.h
+
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/usergroup.h
+iostream
+-
+conio.h
+-
+string
+-
+fstream
+-
+sstream
+-
+map
+-
+stud.h
+C:/Users/IsaacHong/Documents/C++ source file/Student Management System/stud.h
+
